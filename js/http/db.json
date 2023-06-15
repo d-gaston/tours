@@ -5,7 +5,7 @@
       "name": "APL",
       "creator": "Iverson",
       "year": 1966,
-      "users": 0
+      "users": 999999
     },
     {
       "id": 2,
@@ -27,7 +27,62 @@
       "creator": "Lamport",
       "year": 1999,
       "users": 0
+    },
+    {
+      "name": "Prolog",
+      "creator": "Colmerauer et al.",
+      "year": 1972,
+      "users": 0,
+      "id": 5
+    },
+    {
+      "name": "Prolog",
+      "creator": "Colmerauer et al.",
+      "year": 1972,
+      "users": 0,
+      "id": 6
+    },
+    {
+      "name": "Prolog",
+      "creator": "Colmerauer et al.",
+      "year": 1972,
+      "users": 0,
+      "id": 7
+    },
+    {
+      "name": "",
+      "year": "",
+      "creator": "",
+      "users": 0,
+      "id": 9
+    },
+    {
+      "name": "",
+      "year": "",
+      "creator": "",
+      "users": 0,
+      "id": 10
+    },
+    {
+      "name": "Vulgar Latin",
+      "year": "",
+      "creator": "the real latinates",
+      "users": 0,
+      "id": 11
+    },
+    {
+      "name": "Vulgar Latin",
+      "year": "",
+      "creator": "the real latinates",
+      "users": 0,
+      "id": 12
+    },
+    {
+      "name": "Vulgar Latin",
+      "year": "",
+      "creator": "the real latinates",
+      "users": 0,
+      "id": 13
     }
-    
   ]
 }
