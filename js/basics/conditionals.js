@@ -1,3 +1,4 @@
+// testing git merge
 
 //comparisons
 console.log(`Is 5 greater than 6? ${5 > 6}`)
