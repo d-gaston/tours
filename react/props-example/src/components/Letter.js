@@ -3,6 +3,8 @@ import LetterInfo from './LetterInfo.js'
 function Letter(props) {
     console.assert(props.letter != null, "letter prop in Letter.js is null")
     return (
+
+        //▼passes letter object from App to to LetterInfo
         <div>
             <LetterInfo
                 symbol={props.letter.symbol}
@@ -17,6 +19,7 @@ function Letter(props) {
             </ul>
 
         </div>
+        //key is for the purposes of react, must be unique
 
     )
 }

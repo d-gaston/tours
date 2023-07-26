@@ -15,11 +15,19 @@ function App() {
     }
   }
 
+  // ▼ passes the letter object to the Letter component
+
   return (
     <div>
       <Letter letter={letter} />
     </div>
-  );
+  )
 }
 
 export default App;
+
+/*let argumentObject = {}
+argumentObject.letter = letter
+Letter(argumentObject)
+HTML tags tell us we are starting 
+*/
